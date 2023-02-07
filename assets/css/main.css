@@ -1219,7 +1219,7 @@ h6 {
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 30vh;
+  min-height: 100vh;
   background: #414141;
   background-size: cover;
   position: relative;
